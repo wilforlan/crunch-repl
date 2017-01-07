@@ -1,6 +1,6 @@
 {
   "name": "crunch-repl",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Crunch REPL Simplifies certain REPL Operations Like Getting TIme Taken to Execute a Function e.t.c",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,12 @@
     "CLI"
   ],
   "author": "Williams Isaac",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willpoint/mongocrude.git"
+  },
+  "dependencies": {
+    "request": "^2.79.0"
+  }
 }

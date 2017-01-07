@@ -39,7 +39,7 @@ exports.start = function(){
         if (error) {
           console.log(error);
         }
-        else if (!error200) {
+        else{
           var info = JSON.parse(body);
           console.log(info);
         }
