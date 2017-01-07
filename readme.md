@@ -5,10 +5,10 @@
 
   npm install crunch-repl
 
-  You need to require crunch-repl in  Fild First
+You need to require crunch-repl in your file First
 
   file.js
-    const repl = require('crunch-repl').start();
+  const repl = require('crunch-repl').start();
 
 Go CLI and Run:
   node file.js
