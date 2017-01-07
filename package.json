@@ -1,0 +1,17 @@
+{
+  "name": "crunch-repl",
+  "version": "0.0.1",
+  "description": "Crunch REPL Simplifies certain REPL Operations Like Getting TIme Taken to Execute a Function e.t.c",
+  "main": "index.js",
+  "scripts": {
+    "test": "tests\\test.js"
+  },
+  "keywords": [
+    "REPL",
+    "Node",
+    "Crunch",
+    "CLI"
+  ],
+  "author": "Williams Isaac",
+  "license": "MIT"
+}
