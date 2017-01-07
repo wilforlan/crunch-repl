@@ -3,7 +3,8 @@
 
 **Getting Started**
 
-      npm install crunch-repl
+      npm install crunch-repl --save
+      npm install request --save
 
       Command List:
       .getTime [function] --> The Gets the Time Taken to Execute That Function
