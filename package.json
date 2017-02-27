@@ -1,10 +1,13 @@
 {
   "name": "crunch-repl",
-  "version": "0.0.3",
+  "version": "0.0.8",
   "description": "Crunch REPL Simplifies certain REPL Operations Like Getting TIme Taken to Execute a Function e.t.c",
   "main": "index.js",
   "scripts": {
     "test": "tests\\test.js"
+  },
+  "bin": {
+  "crunch": "./index.js"
   },
   "keywords": [
     "REPL",
@@ -16,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/willpoint/mongocrude.git"
+    "url": "https://github.com/wilforlan/crunch-repl.git"
   },
   "dependencies": {
     "request": "^2.79.0"
